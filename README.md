@@ -1,9 +1,3 @@
-When you push a project to GitHub, it is standard practice to include a **README.md** file. This file acts as the "homepage" of your project, explaining what it is and what technologies you used.
-
-Since you are building an **Amazon Clone**, here is a professional, well-structured "Read Me" content you can copy and paste into a new file named `README.md` in your project folder.
-
----
-
 # Amazon Clone 
 
 A front-end clone of the **Amazon.com** homepage and footer, built to master the art of complex layouts and responsive web design.
