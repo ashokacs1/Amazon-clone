@@ -4,7 +4,7 @@ Since you are building an **Amazon Clone**, here is a professional, well-structu
 
 ---
 
-# Amazon Clone - UI/UX Practice
+# Amazon Clone 
 
 A front-end clone of the **Amazon.com** homepage and footer, built to master the art of complex layouts and responsive web design.
 
@@ -33,6 +33,8 @@ This project is a pixel-perfect recreation of the Amazon web interface. The goal
 ## 📸 Screenshots
 
 *<img width="1348" height="448" alt="image" src="https://github.com/user-attachments/assets/71ac8c98-9421-477d-8065-25082c90b741" />*
+*<img width="1337" height="629" alt="Screenshot 2025-12-27 003107" src="https://github.com/user-attachments/assets/1fd44709-04fe-4d89-9d2b-179e3f4e5c64" />*
+*<img width="1347" height="540" alt="image" src="https://github.com/user-attachments/assets/5946ea88-d261-4133-bff8-40ff816bd3f8" />*
 
 ## 💡 What I Learned
 
